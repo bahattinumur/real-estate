@@ -1,16 +1,18 @@
 <h1> REAL ESTATE AND CONSTRUCTION </h1>
 
-This is an example of a real estate and construction website.
+This is an example of a real estate and construction website. The homepage features a slideshow that allows seamless transitions between house images with just a single click. The design is simple, useful, and elegant. The website is built using the Bootstrap framework.
 
-Slideshow feature on the homepage enables seamless transitions between house images with just a single click.
+<h2> Software Languages </h2>
 
-Simple, useful, and elegant design.
+- HTML
 
-Built using the Bootstrap framework.
+- CSS
 
-<h2> Software Languages and Libraries </h2>
+- JavaScript
 
-I made it using HTML, CSS, JS and Bootstrap.
+<h2> Framework </h2>
+
+- Bootstrap
 
 <h2> Screen Gif </h2>
 
